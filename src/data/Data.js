@@ -8,7 +8,7 @@ export const navigationLinks = [
     { id: 5, title: 'Loans', icon:billIcon},
     { id: 6, title: 'Reports', icon:reportIcon},
     { id: 7, title: 'Savings', icon:walletIcon},
-    { id: 8, title: 'Financial Advice',wealthIcon},
+    { id: 8, title: 'Financial Advice',icon:wealthIcon},
     { id: 9, title: 'Account', icon:userIcon},
     { id: 10, title: 'Settings', icon:gearIcon}
 ];
